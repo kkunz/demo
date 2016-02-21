@@ -1,4 +1,2 @@
 This is another practice file
 modified on branch 1
-changed demo-practice on branch demo1a
-demoPractice-2.txt demo1a
